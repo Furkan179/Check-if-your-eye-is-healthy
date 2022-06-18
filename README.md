@@ -5,6 +5,6 @@
 
 ![göz_bölgesi](https://raw.githubusercontent.com/Furkan179/Check-if-your-eye-is-healthy/main/images.PNG)
 
-<h2>Sarı benek bölgesinde filtreleme yapıyoruz</h2>
+<h2>Elimizdeki verilerle eğittiğimiz modelimizi test ediyoruz</h2>
 
 ![Tahmin ediyoruz](https://raw.githubusercontent.com/Furkan179/Check-if-your-eye-is-healthy/main/prediction.PNG)
